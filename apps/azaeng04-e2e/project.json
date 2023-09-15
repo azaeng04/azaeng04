@@ -1,0 +1,29 @@
+{
+  "name": "azaeng04-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/azaeng04-e2e/src",
+  "projectType": "application",
+  "targets": {
+    "e2e": {
+      "executor": "@nx/cypress:cypress",
+      "options": {
+        "cypressConfig": "apps/azaeng04-e2e/cypress.json",
+        "devServerTarget": "azaeng04:serve:development"
+      },
+      "configurations": {
+        "production": {
+          "devServerTarget": "azaeng04:serve:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nx/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/azaeng04-e2e/**/*.{js,ts}"]
+      }
+    }
+  },
+  "tags": [],
+  "implicitDependencies": ["azaeng04"]
+}
