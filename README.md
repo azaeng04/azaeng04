@@ -1,44 +1,32 @@
-# Hi, I'm Azariah
+## Hey there\! 👋 I'm Azariah
 
-**Senior Quality Test Engineer** with 10+ years of experience building robust test automation frameworks and quality engineering solutions.
+**Senior Quality Test Engineer** | 10+ Years in Test Automation
 
-## What I Do
-
-I specialize in designing and implementing end-to-end testing strategies across web, API, and performance testing. My focus is on shifting quality left and building maintainable, scalable test infrastructure.
-
-## Tech Stack
-
-**Test Automation**
-- E2E: Cypress, Playwright
-- Unit/Integration: Jest, Vitest, Testing Library, JUnit
-- API: Postman, REST Assured
-- Performance: k6
-
-**Languages**
-- TypeScript/JavaScript (Primary)
-- Java
-- C#/.NET
-
-**CI/CD & DevOps**
-- Azure DevOps, GitLab CI, Jenkins
-- Nx Monorepos
-
-**Frameworks**
-- Angular, Entity Framework
-
-## Domains
-
-Fintech & Banking | Property Tech | Legal Tech | Online Gaming
-
-## Certifications
-
-- ISTQB Certified Tester
-- National Diploma in Information Technology (Software Engineering)
-
-## Let's Connect
-
-I'm always interested in discussing test automation strategies, quality engineering practices, and building better software.
+🔬 Building robust test frameworks & shifting quality left  
+🌍 Based in South Africa
 
 ---
 
-*Quality is not an act, it is a habit.* — Aristotle
+### 🛠 Tech Stack
+
+**Testing:** Cypress · Playwright · Jest · Vitest · JUnit · k6  
+**Languages:** TypeScript · JavaScript · Java · C#  
+**CI/CD:** Azure DevOps · GitLab CI · Jenkins  
+**Tools:** Nx · Angular · .NET · Postman
+
+---
+
+### 🏆 Credentials
+
+- ISTQB Certified Tester
+- National Diploma in IT (Software Engineering)
+
+---
+
+### 💼 Domains
+
+Fintech · Property Tech · Legal Tech · Gaming
+
+---
+
+*"Quality is not an act, it is a habit."*
