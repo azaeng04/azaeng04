@@ -31,6 +31,8 @@
 
 </details>
 
+**View Dashboards:** [SonarCloud](https://sonarcloud.io/organizations/azaeng04/projects) | [Quality Dashboard](https://azaeng04.github.io/quality-dashboard/)
+
 ---
 
 ### 🛠 Tech Stack
