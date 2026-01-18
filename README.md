@@ -12,7 +12,8 @@
 **Testing:** Cypress · Playwright · Jest · Vitest · JUnit · k6  
 **Languages:** TypeScript · JavaScript · Java · C#  
 **CI/CD:** Azure DevOps · GitLab CI · Jenkins  
-**Tools:** Nx · Angular · .NET · Postman
+**Tools:** Nx · Angular · .NET · Postman  
+**AI:** GitHub Copilot · ChatGPT · Claude Code
 
 ---
 
